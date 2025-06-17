@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Urmila </h1>
+<h1 align="center">👋 Hi there, I'm Urmila Awasarmal!</h1>
 
 <p align="center">
   🚀 <strong>Versatile Computer Science Engineer | Passionate about AI, ML, DSA, and Scalable Systems</strong><br>
@@ -9,10 +9,9 @@
 
 ### 🧠 About Me
 
-- 🎓 BTech in Computer Engineering - AI @ VIIT, Pune 
+- 🎓 BTech in Computer Engineering - AI @ VIIT, Pune (CGPA: 8.62)
 - 💡 Solving real-world problems using Python, OpenCV, ML, and MERN stack
-- 📚 Actively strengthening core CS skills through DSA and competitive coding
-- 🧩 Love crafting automation, intuitive UIs, and smart APIs
+- 📚 Actively strengthening core CS skills through DSA 
 - 🌏 Focused on scalable solutions in healthtech, smart cities, and sustainability
 
 ---
@@ -20,68 +19,60 @@
 ### 💼 Projects
 
 #### 🛡️ Smart Helmet Compliance System
-> <img src="https://img.icons8.com/color/48/computer-vision.png" width="24"/> AI-powered traffic compliance using YOLOv8 and OpenCV  
+AI-powered traffic compliance using YOLOv8 and OpenCV  
 - 🔍 85%+ helmet & plate detection accuracy under 200ms/frame  
-- 🖥️ Real-time evidence capture, timestamped metadata, and Excel logging via Pandas  
-- 📊 Streamlit dashboard   
+- 📸 Real-time evidence capture, timestamped metadata, and Excel logging via Pandas 
+- 📊 Streamlit dashboard 
 
 #### 🩺 HealthHive – MERN HealthTech Platform
-> <img src="https://img.icons8.com/color/48/health-graph.png" width="24"/> Full-stack system with secure auth, AI recommendations, and emergency connect  
-- 🧬 ML engine for health content personalization  
-- 🔐 JWT-based auth for patient/doctor roles  
-- 🎨 React + Node backend with SVG animations
+Secure full-stack system with AI recommendations and emergency connect  
+- 🧬 ML engine for personalized health content  
+- 🔐 JWT-based role-specific authentication  
+- 🎨 Modern UI using React, Express, and Node
 
-#### 🌱 Eco Harvest – Agri-Waste Management System
-> <img src="https://img.icons8.com/color/48/sustainability.png" width="24"/> Circular economy platform for agri-waste transformation  
-- 🌾 ML model for crop waste forecasting  
-- 🧭 Google Maps API for farm-buyer logistics  
+#### 🌱 Eco Harvest – Agri-Waste Management Platform
+Transforming farm waste into bio-resources with AI  
+- 🌾 ML model to forecast waste from crop yield  
+- 🧭 Location-based search with Google Maps API  
 - 💬 Twilio SMS alerts and live dashboard  
-- 💻 React + Flask architecture
+- ⚙️ Full-stack platform using Flask and React
 
 ---
 
-### 💡 DSA 
+### 📘 DSA & Competitive Programming
 
-- 🧠 Practicing on platforms like LeetCode and GFG
-- 📁 Check out: [https://github.com/urmi1506/DSA-)
-  
+- 🧠 Practicing regularly on LeetCode, GFG
+- 📁 See: [https://github.com/urmi1506/DSA-]
+
 ---
 
-### 🏆 Hackathons & Recognitions
+### 🏆 Hackathons 
 
-- 💻 Google Girl Hackathon 2025
+- 💻 Google Girl Hackathon 2025  
 - 👩‍💻 BNY Code Divas 25 
-- 🚀 Flipkart Runway Season 5
-- 🌾 Agritech Hackathon 2025
-- 🔧 Women Code to Win (ServiceNow)
+- 🚀 Flipkart Runway Season 5  
+- 🌾 Agritech Hackathon 2025  
+- 🔧 Women Code to Win (ServiceNow)  
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv8-FF4088?style=for-the-badge&logo=YOLO&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-FF4088?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/urmila-awasarmal-8ba1301a1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/urmi1506">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urmila-awasarmal-8ba1301a1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/urmi1506)
 
 📍 Pune, India  
 📧 urmila.22420311@viit.ac.in
