@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 BTech in Computer Engineering - AI @ VIIT, Pune (CGPA: 8.62)
+- 🎓 BTech in Computer Engineering - AI @ VIIT, Pune 
 - 💡 Solving real-world problems using Python, OpenCV, ML, and MERN stack
 - 📚 Actively strengthening core CS skills through DSA and competitive coding
 - 🧩 Love crafting automation, intuitive UIs, and smart APIs
