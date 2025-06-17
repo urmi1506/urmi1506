@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Urmila Awasarmal!</h1>
+<h1 align="center">👋 Hi there, I'm Urmila </h1>
 
 <p align="center">
   🚀 <strong>Versatile Computer Science Engineer | Passionate about AI, ML, DSA, and Scalable Systems</strong><br>
@@ -39,10 +39,10 @@ Transforming farm waste into bio-resources with AI
 
 ---
 
-### 📘 DSA & Competitive Programming
+### 📘 DSA 
 
 - 🧠 Practicing regularly on LeetCode, GFG
-- 📁 See: [https://github.com/urmi1506/DSA-]
+- 📁 Check Out : [https://github.com/urmi1506/DSA-]
 
 ---
 
