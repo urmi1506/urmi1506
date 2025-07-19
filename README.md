@@ -22,7 +22,6 @@
 AI-powered traffic compliance using YOLOv8 and OpenCV  
 - 🔍 85%+ helmet & plate detection accuracy under 200ms/frame  
 - 📸 Real-time evidence capture, timestamped metadata, and Excel logging via Pandas 
-- 📊 Streamlit dashboard 
 
 #### 🩺 HealthHive – MERN HealthTech Platform
 Secure full-stack system with AI recommendations and emergency connect  
