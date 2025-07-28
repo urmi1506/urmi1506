@@ -25,10 +25,10 @@ AI-powered traffic compliance using YOLOv8 and OpenCV
 
 #### 🩺 HealthHive – MERN HealthTech Platform
 Secure full-stack system with role based authentication  
--🔐 Role-based JWT authentication for Admin, Doctor, and User.
--⚙️ Built on MERN stack (MongoDB, Express, React, Node.js) for full-stack efficiency.
--🎨 Responsive and modern UI with intuitive healthcare workflows.
--🛡️ Secure data handling and protected routes for user privacy.
+- 🔐 Role-based JWT authentication for Admin, Doctor, and User.
+- ⚙️ Built on MERN stack (MongoDB, Express, React, Node.js) for full-stack efficiency.
+- 🎨 Responsive and modern UI with intuitive healthcare workflows.
+- 🛡️ Secure data handling and protected routes for user privacy.
 
 #### 🌱 Eco Harvest – Agri-Waste Management Platform
 Transforming farm waste into bio-resources with AI  
